@@ -1,0 +1,3 @@
+module Automate {
+	requires okio;
+}

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-12T01:30:12 IST" name="Default suite" finished-at="2021-07-12T01:30:55 IST" duration-ms="43143">
+    <groups>
+    </groups>
+    <test started-at="2021-07-12T01:30:12 IST" name="Default test" finished-at="2021-07-12T01:30:55 IST" duration-ms="43143">
+      <class name="com.counter.qa.testcases.HamburgerTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.counter.qa.testcases.HamburgerTest@1184ab05]" started-at="2021-07-12T01:30:12 IST" name="setUp" finished-at="2021-07-12T01:30:24 IST" duration-ms="11411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyClickOnAnyActivity()[pri:0, instance:com.counter.qa.testcases.HamburgerTest@1184ab05]" started-at="2021-07-12T01:30:24 IST" name="verifyClickOnAnyActivity" finished-at="2021-07-12T01:30:25 IST" duration-ms="828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClickOnAnyActivity -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.counter.qa.testcases.HamburgerTest@1184ab05]" started-at="2021-07-12T01:30:25 IST" name="tearDown" finished-at="2021-07-12T01:30:25 IST" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.counter.qa.testcases.HamburgerTest@1184ab05]" started-at="2021-07-12T01:30:25 IST" name="setUp" finished-at="2021-07-12T01:30:36 IST" duration-ms="11529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyClickOnCrossButton()[pri:0, instance:com.counter.qa.testcases.HamburgerTest@1184ab05]" started-at="2021-07-12T01:30:36 IST" name="verifyClickOnCrossButton" finished-at="2021-07-12T01:30:40 IST" duration-ms="3340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClickOnCrossButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.counter.qa.testcases.HamburgerTest@1184ab05]" started-at="2021-07-12T01:30:40 IST" name="tearDown" finished-at="2021-07-12T01:30:40 IST" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.counter.qa.testcases.HamburgerTest@1184ab05]" started-at="2021-07-12T01:30:40 IST" name="setUp" finished-at="2021-07-12T01:30:52 IST" duration-ms="12264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyClickOnHamburgerIcon()[pri:0, instance:com.counter.qa.testcases.HamburgerTest@1184ab05]" started-at="2021-07-12T01:30:52 IST" name="verifyClickOnHamburgerIcon" finished-at="2021-07-12T01:30:55 IST" duration-ms="3072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClickOnHamburgerIcon -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.counter.qa.testcases.HamburgerTest@1184ab05]" started-at="2021-07-12T01:30:55 IST" name="tearDown" finished-at="2021-07-12T01:30:55 IST" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.counter.qa.testcases.HamburgerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
