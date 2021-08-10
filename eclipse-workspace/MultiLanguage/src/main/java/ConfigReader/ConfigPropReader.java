@@ -12,7 +12,10 @@ public class ConfigPropReader {
 	
 	public Properties initLangProp(String language) {
 		
+		//String languag = System.getProperty("lang");
+		
 		System.out.println("lang is : "+language);
+		
 	
 	prop =new Properties();
 	

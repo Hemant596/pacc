@@ -18,7 +18,7 @@ public class HomePageTest {
 	ConfigPropReader cp;
 	Properties prop;
 	WebDriver driver;
-	 HomePage homepage;
+	HomePage homepage;
 	
 	@BeforeTest
 	public void setUp() {
@@ -27,9 +27,9 @@ public class HomePageTest {
 		df =new DriverFactory();
 		driver =df.initDriver("chrome", prop);
 		homepage = new HomePage(driver);
-		
+		                
 	}
-	
+	                
 	@Test
 	public void headerTest() {
 		Assert.assertTrue(homepage.getHeaderExist(prop.getProperty("header")));
